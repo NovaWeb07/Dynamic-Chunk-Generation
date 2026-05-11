@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+issueTrackerURL=""
+
+[[mods]]
+modId="randomchunks"
+version="1.0.0"
+displayName="Random Chunks"
+updateJSONURL=""
+displayURL=""
+credits="Created with Insect & GPT"
+authors="Insect"
+description='''
+Every chunk becomes a single random block from the full Minecraft block list.
+'''
+
+[[dependencies.randomchunks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.randomchunks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
