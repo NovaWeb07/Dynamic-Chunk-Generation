@@ -1,4 +1,4 @@
-package com.gaminginsects.randomchunks;
+package com.novadev.randomchunks;
 
 import net.minecraftforge.fml.common.Mod;
 

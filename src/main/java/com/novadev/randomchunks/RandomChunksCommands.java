@@ -1,4 +1,4 @@
-package com.gaminginsects.randomchunks;
+package com.novadev.randomchunks;
 
 import com.mojang.brigadier.CommandDispatcher;
 import net.minecraft.commands.CommandSourceStack;

@@ -1,4 +1,4 @@
-package com.gaminginsects.randomchunks;
+package com.novadev.randomchunks;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Registry;

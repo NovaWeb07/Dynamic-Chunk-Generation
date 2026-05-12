@@ -9,8 +9,8 @@ version="1.0.0"
 displayName="Random Chunks"
 updateJSONURL=""
 displayURL=""
-credits="Created with Insect & GPT"
-authors="Insect"
+credits="Created with NovaDev & GPT"
+authors="NovaDev"
 description='''
 Every chunk becomes a single random block from the full Minecraft block list.
 '''
